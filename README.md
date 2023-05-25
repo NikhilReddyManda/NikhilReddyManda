@@ -1,12 +1,14 @@
-<br>
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-<h1 style="text-align: center;">Hi, Guys 👋</h1>
-
----
-**<p style="text-align: center;">Welcome to my page!</p>**
-*<p style="text-align: center;">I'm Nikhil Reddy</p>*
-*<p style="text-align: center;">Currently re-learning JavaScript and its libraries</p>*
-*<p style="text-align: center;">Helping other developers and contributing to open source libraries</p>*
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Nikhil Reddy.<br>
+        Currently re-learning JavaScript and its libraries.<br>
+        Helping Other Devlopers and contirbuting to open sources.<br>
+    </i><br>
+    
+</p>
 
 ### Languages
 
