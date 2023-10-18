@@ -5,7 +5,7 @@
     <i>
         I'm Nikhil Reddy.<br>
         Currently re-learning JavaScript and its libraries.<br>
-        Helping Other Devlopers and contirbuting to open sources.<br>
+        Helping Other Developers and contributing to open sources.<br>
     </i><br>
     
 </p>
@@ -18,7 +18,6 @@
 
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/NikhilReddyManda)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/NikhilReddyManda)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/NikhilReddyManda)
