@@ -3,7 +3,6 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Nikhil Reddy.<br>
         Currently re-learning JavaScript and its libraries.<br>
         Helping Other Developers and contributing to open sources.<br>
     </i><br>
